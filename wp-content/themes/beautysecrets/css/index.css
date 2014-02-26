@@ -8,7 +8,7 @@ input[type="text"]:focus { outline: none; }
 * html .clearfix { height: 1%; }
 body { padding:0px; font-family:arial; font-size:12px; margin:0px; margin-bottom:0px; }
 ul { margin:0px; padding:0px; list-style:none; } 
-h1 { font-family: 'Oswald',sans-serif; font-weight:normal; font-size:21px; }
+h1 { font-family: 'Oswald',sans-serif; font-weight:normal; font-size:28px; }
 h2 { font-family: 'Oswald',sans-serif; font-size:18px; font-weight:normal; }
 h3 { font-family: 'Oswald',sans-serif; font-size:14px; font-weight:normal; margin:0px; padding:10px 0px; }
 img { border-width:0px; }
