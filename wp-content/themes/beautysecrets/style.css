@@ -204,10 +204,11 @@ a.page-numbers:hover, span.page-numbers {
 	}
 	#logo {
 		position:absolute;
-		top: 72px;
+		top: 49px;
+                left: -97px;
 	}
 	#logo img {
-		margin-left:-50%;
+		
 	}
         
         #logo h1 {
