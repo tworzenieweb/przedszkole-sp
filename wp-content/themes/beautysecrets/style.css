@@ -205,7 +205,7 @@ a.page-numbers:hover, span.page-numbers {
 	#logo {
 		position:absolute;
 		top: 49px;
-                left: -97px;
+                left: 0px;
 	}
 	#logo img {
 		
