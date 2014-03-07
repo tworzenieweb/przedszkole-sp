@@ -97,9 +97,10 @@ a.post_ttl {
 }
 .articles .post-date {
 	color:#fff;
-	background:#99cc99;
+	background:#9c99cc;
 	float:right;
 	padding:3px;
+        font-size: 16px;
 }
 
 #commentform #submit, input.readmore, a.readmore {
