@@ -15,7 +15,7 @@ Tags: white, red, light, fixed-width, featured-images, custom-menu, translation-
 /*	-==========================- GENERAL -==========================-  */
 /*------------------------------ PAGE ------------------------------*/
 @import url(http://fonts.googleapis.com/css?family=Oswald&subset=latin,latin-ext);
-@import url(http://fonts.googleapis.com/css?family=PT+Sans+Narrow&subset=latin,latin-ext);
+@import url(http://fonts.googleapis.com/css?family=Esteban&subset=latin,latin-ext);
 @import url(http://fonts.googleapis.com/css?family=Cantora+One&subset=latin,latin-ext);
 @import url(http://fonts.googleapis.com/css?family=Gabriela&subset=latin,latin-ext);
 html {
@@ -24,8 +24,8 @@ html {
 body {
 	background:url(images/top.jpg) 50% top repeat-x;
 	color:#3d3e3d;
-	font-family: 'PT Sans Narrow', sans-serif;
-	font-size:13px;
+	font-family: 'Esteban', sans-serif;
+	font-size:12px;
 }
 a {
 	color:#1d413b;

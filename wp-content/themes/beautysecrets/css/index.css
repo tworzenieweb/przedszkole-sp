@@ -65,7 +65,7 @@ img { border-width:0px; }
 /*	-==========================- ARTICLES -==========================-  */
 .articles { margin:0 -30px;}
 .articles .post-caption { margin:0px; padding:0 30px; padding-top:1px; padding-bottom:12px;}
-.articles .post-body { overflow:hidden; padding:0 30px; padding-bottom:20px;	font-size:13px;	line-height:18px; margin-left:0;}
+.articles .post-body { overflow:hidden; padding:0 30px; padding-bottom:20px;	font-size:15px;	line-height:23px; margin-left:0;}
 .articles .post-caption p { padding:12px 0; margin:0; }
 .articles .post-caption h2,.articles .post-caption h1 { padding:14px 0; margin:0; }
 .articles .post-caption p img{ margin:0px 5px; margin-bottom:-4px; }

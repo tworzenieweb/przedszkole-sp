@@ -67,7 +67,7 @@ class Posts extends WP_Widget
 							$month=$date[0];
 							$class=' class="withdate"';
 						?>
-						<span class='date'><span class='day'><?php echo $day; ?></span><br /><?php echo $month; ?></span>
+						<span class='date'><span class='day'><?php echo $day; ?></span><br /><?php echo substr($month,0,3); ?></span>
 						<?php } else $class='';?>
                         <?php if ($instance['display_featured_image'] && has_post_thumbnail($p->ID) ) { ?><?php echo get_the_post_thumbnail($p->ID,array(56,56), array()); ?> <?php } ?>
                         <?php if ( $instance['display_title'] ) { ?> <a href="<?php echo get_permalink($p->ID); ?>" rel="bookmark" title="<?php echo $p->post_title; ?>"><?php echo $p->post_title?></a><?php } ?>
