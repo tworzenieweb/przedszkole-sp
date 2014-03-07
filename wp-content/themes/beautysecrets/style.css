@@ -496,3 +496,8 @@ a.page-numbers:hover, span.page-numbers {
 		width:70%;
 	}
 }
+
+.ngg-album-compact h4 {
+    font-size: 11px;
+    line-height: 17px;
+}
